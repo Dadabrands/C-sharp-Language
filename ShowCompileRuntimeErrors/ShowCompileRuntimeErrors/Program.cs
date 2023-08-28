@@ -1,14 +1,4 @@
-﻿using System;
-
-namespace ShowCompileRuntimeErrors
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("");
-
-
+﻿
 //             Compile-time errors and runtime errors are two distinct types of errors that can occur in a program, each happening at a different stage of the software development and execution process.
 
 // Compile-Time Error:
@@ -31,6 +21,4 @@ namespace ShowCompileRuntimeErrors
 // Runtime errors can lead to program crashes, unexpected behavior, or incorrect results. Exception handling mechanisms are used to catch and manage these errors, allowing the program to gracefully handle exceptional situations and possibly recover without terminating.
 
 // In summary, compile-time errors are detected by the compiler during the code translation process, preventing the program from being compiled. Runtime errors occur while the program is running, resulting from unexpected conditions that were not caught during compilation. Both types of errors require careful debugging and handling to ensure the correctness and reliability of the software.
-        }
-    }
-}
+  
