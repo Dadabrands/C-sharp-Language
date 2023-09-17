@@ -1,0 +1,14 @@
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\bin\Debug\net7.0\Classes__Basics.exe
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\bin\Debug\net7.0\Classes__Basics.deps.json
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\bin\Debug\net7.0\Classes__Basics.runtimeconfig.json
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\bin\Debug\net7.0\Classes__Basics.dll
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\bin\Debug\net7.0\Classes__Basics.pdb
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\obj\Debug\net7.0\Classes__Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\obj\Debug\net7.0\Classes__Basics.AssemblyInfoInputs.cache
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\obj\Debug\net7.0\Classes__Basics.AssemblyInfo.cs
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\obj\Debug\net7.0\Classes__Basics.csproj.CoreCompileInputs.cache
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\obj\Debug\net7.0\Classes__Basics.dll
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\obj\Debug\net7.0\refint\Classes__Basics.dll
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\obj\Debug\net7.0\Classes__Basics.pdb
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\obj\Debug\net7.0\Classes__Basics.genruntimeconfig.cache
+C:\Users\SAM DAD\Desktop\C# Course\Classes__Basics\obj\Debug\net7.0\ref\Classes__Basics.dll

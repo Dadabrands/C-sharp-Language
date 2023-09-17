@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\SAM DAD\\Desktop\\C# Course\\C# Course.csproj": {}
+    "C:\\Users\\SAM DAD\\Desktop\\C# Course\\Classes__Basics\\Classes__Basics.csproj": {}
   },
   "projects": {
-    "c:\\Users\\SAM DAD\\Desktop\\C# Course\\C# Course.csproj": {
+    "C:\\Users\\SAM DAD\\Desktop\\C# Course\\Classes__Basics\\Classes__Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SAM DAD\\Desktop\\C# Course\\C# Course.csproj",
-        "projectName": "C# Course",
-        "projectPath": "c:\\Users\\SAM DAD\\Desktop\\C# Course\\C# Course.csproj",
+        "projectUniqueName": "C:\\Users\\SAM DAD\\Desktop\\C# Course\\Classes__Basics\\Classes__Basics.csproj",
+        "projectName": "Classes__Basics",
+        "projectPath": "C:\\Users\\SAM DAD\\Desktop\\C# Course\\Classes__Basics\\Classes__Basics.csproj",
         "packagesPath": "C:\\Users\\SAM DAD\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SAM DAD\\Desktop\\C# Course\\obj\\",
+        "outputPath": "C:\\Users\\SAM DAD\\Desktop\\C# Course\\Classes__Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAM DAD\\AppData\\Roaming\\NuGet\\NuGet.Config",

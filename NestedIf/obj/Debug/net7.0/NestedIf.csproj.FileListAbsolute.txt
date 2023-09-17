@@ -1,0 +1,14 @@
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\bin\Debug\net7.0\NestedIf.exe
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\bin\Debug\net7.0\NestedIf.deps.json
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\bin\Debug\net7.0\NestedIf.runtimeconfig.json
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\bin\Debug\net7.0\NestedIf.dll
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\bin\Debug\net7.0\NestedIf.pdb
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\obj\Debug\net7.0\NestedIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\obj\Debug\net7.0\NestedIf.AssemblyInfoInputs.cache
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\obj\Debug\net7.0\NestedIf.AssemblyInfo.cs
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\obj\Debug\net7.0\NestedIf.csproj.CoreCompileInputs.cache
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\obj\Debug\net7.0\NestedIf.dll
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\obj\Debug\net7.0\refint\NestedIf.dll
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\obj\Debug\net7.0\NestedIf.pdb
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\obj\Debug\net7.0\NestedIf.genruntimeconfig.cache
+C:\Users\SAM DAD\Desktop\C# Course\NestedIf\obj\Debug\net7.0\ref\NestedIf.dll
