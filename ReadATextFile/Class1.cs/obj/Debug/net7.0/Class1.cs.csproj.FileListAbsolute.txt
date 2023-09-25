@@ -1,0 +1,4 @@
+C:\Users\SAM DAD\Desktop\C# Course\ReadATextFile\Class1.cs\obj\Debug\net7.0\Class1.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAM DAD\Desktop\C# Course\ReadATextFile\Class1.cs\obj\Debug\net7.0\Class1.cs.AssemblyInfoInputs.cache
+C:\Users\SAM DAD\Desktop\C# Course\ReadATextFile\Class1.cs\obj\Debug\net7.0\Class1.cs.AssemblyInfo.cs
+C:\Users\SAM DAD\Desktop\C# Course\ReadATextFile\Class1.cs\obj\Debug\net7.0\Class1.cs.csproj.CoreCompileInputs.cache

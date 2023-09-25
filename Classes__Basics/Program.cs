@@ -1,17 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-using Classes__Basics;
-
-// 
-Console.WriteLine("Hello, World!");
-// create an object of my class
-// an instance of Human
-Human denis = new Human();
-// access public variable from outside, and even change it
-denis.firstName = "Dada";
-// call methods of the class
-denis.IntroduceMyself();
-
-
-Human Michael = nameof Human()
-
-Console.ReadKey();
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+// See https://aka.ms/new-console-template for more information
+namespace Classes__Basics
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Human dada = new Human("Dada", "Joshua, "Green", 12);
+        }
+    }
+}
